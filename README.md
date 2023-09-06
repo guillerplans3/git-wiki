@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Docs partial mdformat improvements (#7378)
